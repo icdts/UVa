@@ -1,2 +1,2 @@
 # UVa
-UVa submissions
+UVa submissions: https://uva.onlinejudge.org/
